@@ -1,1 +1,1 @@
-https://github.com/ivanh1ynka/HooBank/
+https://ivanh1ynka.github.io/HooBank/
